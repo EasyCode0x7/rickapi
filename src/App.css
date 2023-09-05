@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.App {
+  background-color: #282c34;
+  color: whitesmoke;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.dd {
+  background: rgb(60, 62, 68);
+}
+
